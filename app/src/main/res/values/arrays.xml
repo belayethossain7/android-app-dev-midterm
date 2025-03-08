@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tech_names">
+        <item>Java</item>
+        <item>Python</item>
+        <item>JavaScript</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>React Native</item>
+        <item>Flutter</item>
+        <item>Angular</item>
+        <item>Vue.js</item>
+        <item>Node.js</item>
+    </string-array>
+
+    <string-array name="tech_urls">
+        <item>https://www.java.com</item>
+        <item>https://www.python.org</item>
+        <item>https://www.javascript.com</item>
+        <item>https://developer.apple.com/swift</item>
+        <item>https://kotlinlang.org</item>
+        <item>https://reactnative.dev</item>
+        <item>https://flutter.dev</item>
+        <item>https://angular.io</item>
+        <item>https://vuejs.org</item>
+        <item>https://nodejs.org</item>
+    </string-array>
+
+</resources>
